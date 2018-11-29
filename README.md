@@ -19,5 +19,5 @@ Additionally, this project includes the Machine Learning to forecast the weather
 ## References
 1. [Data visualization with react-vis](https://medium.com/dailyjs/data-visualization-with-react-vis-bd2587fe1660)
 2. [React-vis documentation](http://uber.github.io/react-vis/documentation/)
-3. [ESP8266 (NodeMCU) post request data to website] (https://circuits4you.com/2018/03/10/esp8266-nodemcu-post-request-data-to-website/)
-4. [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd) # TTTTS
+3. [ESP8266 NodeMCU post request data to website](https://circuits4you.com/2018/03/10/esp8266-nodemcu-post-request-data-to-website/)
+4. [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
